@@ -1,10 +1,10 @@
 package codes;
 
-public class Createros {
+public class Conflict {
 
 	public static void main(String[] args) {
-System.out.println("done by roshan");
-System.out.println("edited");
+
+		System.out.println("make by nayeem TL");
 System.out.println("done by nayeem");
 	}
 
